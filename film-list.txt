@@ -1,1 +1,3 @@
 einfaches tool zum erstellen einer film-liste
+
+output soll eine text-datei oder html werden.
