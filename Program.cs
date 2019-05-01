@@ -11,6 +11,6 @@ namespace hallo_mein_github
             
             else
               Console.WriteLine("Hello World ohne Argumente!");
-        } 
+        }
     }
 }

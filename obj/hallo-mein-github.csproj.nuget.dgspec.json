@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Eigene Dateien\\Programmieren\\VSCode\\MeinGitProj\\hallo-mein-github\\hallo-mein-github.csproj": {}
+  },
+  "projects": {
+    "D:\\Eigene Dateien\\Programmieren\\VSCode\\MeinGitProj\\hallo-mein-github\\hallo-mein-github.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Eigene Dateien\\Programmieren\\VSCode\\MeinGitProj\\hallo-mein-github\\hallo-mein-github.csproj",
+        "projectName": "hallo-mein-github",
+        "projectPath": "D:\\Eigene Dateien\\Programmieren\\VSCode\\MeinGitProj\\hallo-mein-github\\hallo-mein-github.csproj",
+        "packagesPath": "C:\\Users\\paulschindler\\.nuget\\packages\\",
+        "outputPath": "D:\\Eigene Dateien\\Programmieren\\VSCode\\MeinGitProj\\hallo-mein-github\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulschindler\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
