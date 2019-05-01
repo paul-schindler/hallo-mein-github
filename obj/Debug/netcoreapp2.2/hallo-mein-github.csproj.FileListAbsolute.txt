@@ -1,0 +1,11 @@
+D:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\bin\Debug\netcoreapp2.2\hallo-mein-github.deps.json
+D:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\bin\Debug\netcoreapp2.2\hallo-mein-github.runtimeconfig.json
+D:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\bin\Debug\netcoreapp2.2\hallo-mein-github.runtimeconfig.dev.json
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\bin\Debug\netcoreapp2.2\hallo-mein-github.dll
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\bin\Debug\netcoreapp2.2\hallo-mein-github.pdb
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\obj\Debug\netcoreapp2.2\hallo-mein-github.csprojAssemblyReference.cache
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\obj\Debug\netcoreapp2.2\hallo-mein-github.csproj.CoreCompileInputs.cache
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\obj\Debug\netcoreapp2.2\hallo-mein-github.AssemblyInfoInputs.cache
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\obj\Debug\netcoreapp2.2\hallo-mein-github.AssemblyInfo.cs
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\obj\Debug\netcoreapp2.2\hallo-mein-github.dll
+d:\Eigene Dateien\Programmieren\VSCode\MeinGitProj\hallo-mein-github\obj\Debug\netcoreapp2.2\hallo-mein-github.pdb
